@@ -1,5 +1,1 @@
-<<<<<<< main
-Nigger = ?
-=======
-Niggger
->>>>>>> local
+12345
